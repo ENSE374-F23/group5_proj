@@ -3,7 +3,7 @@ Project of ENSE 374 class in Fall 2023
 
 ---
 
-###Personalized Academic Planner
+### Personalized Academic Planner
 
 1. Introduction
 	- [link](https://www.example.com)

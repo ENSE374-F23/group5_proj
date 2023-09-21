@@ -1,4 +1,4 @@
-# group5_proj
+# Group5_proj
 Project of ENSE 374 class in Fall 2023
 
 ---

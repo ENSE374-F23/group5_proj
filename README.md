@@ -8,7 +8,7 @@ Project of ENSE 374 class in Fall 2023
 1. Introduction
 	- [link](https://www.example.com)
 2. Problem Definition
-	- [link](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
+	- [file](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
 3. Design Requirements
 	- [link](https://www.example.com)
 4. Solutions

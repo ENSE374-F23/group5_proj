@@ -5,11 +5,15 @@ Project of ENSE 374 class in Fall 2023
 
 ### Personalized Academic Planner
 
-1. Introduction
-	- [link](https://www.example.com)
-2. Problem Definition
+1. Problem Definition
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
-3. Project Requirements Document
+2. Project Requirements Document
+	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
+3. Mile-stone based schedule
+	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
+4. Project charter
+	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project%20Charter.docx)
+5. Project Requirements Document
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
 4. Solutions
 	- [link](https://www.example.com)

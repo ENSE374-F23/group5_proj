@@ -5,6 +5,7 @@ Project of ENSE 374 class in Fall 2023
 
 ### Personalized Academic Planner (PAP)
  Tolani Oke-Steve 200429404
+ 
  Bilal Alissa 200384288
  
 The PAP is
@@ -26,7 +27,3 @@ The PAP is
 	- [link](https://www.example.com)
 7. Lessons Learned
 	- [link](https://www.example.com)
-
-Contributers:
-- Bilal
-- Tolani

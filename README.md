@@ -1,10 +1,13 @@
-# Group5_proj
+# ENSE 374 – Software Engineering Management
 Project of ENSE 374 class in Fall 2023
 
 ---
 
-### Personalized Academic Planner
-
+### Personalized Academic Planner (PAP)
+ Tolani Oke-Steve 200429404
+ Bilal Alissa 200384288
+ 
+The PAP is
 1. Problem Definition
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
 2. Project Requirements Document

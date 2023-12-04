@@ -5,6 +5,33 @@
  Bilal Alissa 200384288
 
 ---
+### Table of Contents
+Introduction
+Design Problem 
+Problem Definition 
+Design Requirements 
+Solution
+Solution 
+Final Solution
+Components
+Features
+Environmental, Societal, Safety, and Economic Considerations
+Limitations 
+# Team Work
+Meeting 1 
+Meeting 2 
+Meeting 3 
+Meeting 4  
+Meeting 5 
+Meeting 6 
+Meeting 7
+Meeting 8
+Meeting 9
+Project Management
+Conclusion and Future Work
+References 
+
+---
  
 The Personalized Academic Planner (PAP) is a planning tool that makes 
 1. Problem Definition

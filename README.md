@@ -1,9 +1,10 @@
 # ENSE 374 – Software Engineering Management
-###                            Personalized Academic Planner (PAP)
+### Personalized Academic Planner (PAP)
 
----
  Tolani Oke-Steve 200429404,  
  Bilal Alissa 200384288
+
+---
  
 The PAP is
 1. Problem Definition

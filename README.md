@@ -6,7 +6,7 @@
 
 ---
  
-The PAP is
+The Personalized Academic Planner (PAP) is a planning tool that makes 
 1. Problem Definition
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
 2. Project Requirements Document

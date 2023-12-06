@@ -6,7 +6,6 @@
 
 ---
 ### Table of Contents
-Introduction
 
 Design Problem 
 
@@ -61,9 +60,9 @@ The rationale behind this project comes from the increasing demands and challeng
 In the following sections contained within this project would be disscussed below.
 
 
-
-1. Problem Definition
-	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
+### Problem Definition
+      The problem that the PAP aims to solve are the difficulties students often face when managing their academic tasks and schedules. More information about the problem definition is provided in this
+      [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
 2. Project Requirements Document
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
 3. Mile-stone based schedule

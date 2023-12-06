@@ -9,11 +9,6 @@
 
 Design Problem 
 
-
-Design Requirements 
-
-
-
 Components
 
 Features

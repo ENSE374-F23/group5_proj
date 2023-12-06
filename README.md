@@ -26,24 +26,6 @@ Environmental, Societal, Safety, and Economic Considerations
 
 Limitations 
 
-# Team Work
-Meeting 1 
-
-Meeting 2 
-
-Meeting 3 
-
-Meeting 4  
-
-Meeting 5 
-
-Meeting 6 
-
-Meeting 7
-
-Meeting 8
-
-Meeting 9
 
 Project Management
 
@@ -64,13 +46,25 @@ In the following sections contained within this project would be disscussed belo
 The problem that the PAP aims to solve are the difficulties students often face when managing their academic tasks and schedules. More information about the problem definition is provided in this
 [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
 
-2. Project Requirements Document
+# Team Work
+
+1. Meeting 1 - [File]()
+2. Meeting 2 - [File]()
+3. Meeting 3 - [File]()
+4. Meeting 4 - [File]()
+5. Meeting 5 - [File]()
+6. Meeting 6 - [File]()
+7. Meeting 7 - [File]()
+8. Meeting 8 - [File]()
+9. Meeting 9 - [File]()
+
+3. Project Requirements Document
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
-3. Mile-stone based schedule
+4. Mile-stone based schedule
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
-4. Project charter
+5. Project charter
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project%20Charter.docx)
-5. Project Requirements Document
+6. Project Requirements Document
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
 4. Solutions
 	- [link](https://www.example.com)

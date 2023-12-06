@@ -31,12 +31,12 @@ In the following sections contained within this project would be disscussed belo
 
 ## Problem Definition  
 
-The problem that the PAP aims to solve are the difficulties students often face when managing their academic tasks and schedules. More information about the problem definition is provided in this file.
+The problem that the PAP aims to solve are the difficulties students often face when managing their academic tasks and schedules. 
 [Problem Definition](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
 
 ## Design Requirements
 
-Design requirements Included functions objectives and constraints all of were satisfied in this project. More information on the functions objectives and constraints provided below.
+Design requirements Included functions objectives and constraints all of were satisfied in this project. 
 [Project Requirements Document](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
 
 ## Solutions

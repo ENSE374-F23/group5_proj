@@ -17,10 +17,7 @@ Environmental, Societal, Safety, and Economic Considerations
 
 Limitations 
 
-
 Project Management
-
-Conclusion and Future Work
 
 References 
 
@@ -64,8 +61,7 @@ Final Solution
 9. Meeting 9 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%209)
 
 ## Conclusion & Future Work
-The Personalized Academic Planner (PAP) has shown significant potential in addressing the common challenges students face in managing their studies. By providing a customizable platform that caters to individual needs, courses, and study styles. 
-- [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
+The Personalized Academic Planner (PAP) has shown significant potential in addressing the common challenges students face in managing their studies. By providing a customizable platform that caters to individual needs, courses, and study styles. [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
 
 4. Mile-stone based schedule
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)

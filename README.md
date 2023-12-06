@@ -48,15 +48,15 @@ The problem that the PAP aims to solve are the difficulties students often face 
 
 # Team Work
 
-1. Meeting 1 - [File]()
-2. Meeting 2 - [File]()
-3. Meeting 3 - [File]()
-4. Meeting 4 - [File]()
-5. Meeting 5 - [File]()
-6. Meeting 6 - [File]()
-7. Meeting 7 - [File]()
-8. Meeting 8 - [File]()
-9. Meeting 9 - [File]()
+1. Meeting 1 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%201)
+2. Meeting 2 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%202)
+3. Meeting 3 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%203)
+4. Meeting 4 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%204)
+5. Meeting 5 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%205)
+6. Meeting 6 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%206)
+7. Meeting 7 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%207)
+8. Meeting 8 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%208)
+9. Meeting 9 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%209)
 
 3. Project Requirements Document
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)

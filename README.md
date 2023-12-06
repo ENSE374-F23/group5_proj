@@ -47,9 +47,9 @@ The problem that the PAP aims to solve are the difficulties students often face 
 Design requirements Included our functions objectives and constraints 
 
 ## Solutions
-Lo-Fidelity Prototypes -- Figma [File]()
-First Solution [File]()
-Second Solution [File]()
+Lo-Fidelity Prototypes -- Figma [File]() 
+First Solution [File]() 
+Second Solution [File]() 
 ## Team Work
 
 1. Meeting 1 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%201)

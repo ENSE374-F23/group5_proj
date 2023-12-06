@@ -49,10 +49,10 @@ Design requirements Included our functions objectives and constraints
 ## Solutions
 Hi-Fidelity Prototypes -- Figma  
 - [Figma](https://github.com/ENSE374-F23/group5_proj/tree/main/Solutions) -- [Demonstration video](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/Screen_Recording_2023-11-29_at_1.22.11_PM.mov)
--  
+
 First Solution 
 - [First Solution](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/First%20Solution.zip)
-- 
+
 Final Solution 
 - [Final Solution]()  
 ## Team Work

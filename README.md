@@ -63,14 +63,11 @@ Final Solution
 8. Meeting 8 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%208)
 9. Meeting 9 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%209)
 
-3. Project Requirements Document
-	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
+
 4. Mile-stone based schedule
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
 5. Project charter
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project%20Charter.docx)
-6. Project Requirements Document
-	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
 5. Project scope statement
 	- [link](https://www.example.com)
 6. Conclusion and Future Work

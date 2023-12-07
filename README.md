@@ -39,6 +39,14 @@ This is the final solution. This solution is better than our previous solutions 
 - [Final Solution]()  -- [Demonstration video]()
 #### Components 
 
+The components used in our application are:
+User interface component: This is the front-end component that users interact with. It’s designed to be user-friendly and intuitive, providing features like task input, calendar view.
+Database: This component stores all the user data including their tasks, deadlines and more.
+Authentication System: This component manages user accounts, including registration, login, and password management
+
+
+(PAP) components: [File]()
+
 #### Features
 - Login and register feature
 - Course Management feature

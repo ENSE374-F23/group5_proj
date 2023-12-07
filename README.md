@@ -66,7 +66,8 @@ This is the final solution. This solution is better than our previous solutions 
 
 ## Project Management
 
-Gantt chart to show Progress: [Gantt chart]()
+First Gantt chart: [Gantt chart]()
+Updated Gantt chart In light of Presentation with stakeholder: [Gantt chart]()
 
 ## Conclusion & Future Work
 The Personalized Academic Planner (PAP) has shown significant potential in addressing the common challenges students face in managing their studies. By providing a customizable platform that caters to individual needs, courses, and study styles. [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)

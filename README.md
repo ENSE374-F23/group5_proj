@@ -69,7 +69,4 @@ The Personalized Academic Planner (PAP) has shown significant potential in addre
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project%20Charter.docx)
 5. Project scope statement
 	- [link](https://www.example.com)
-6. Conclusion and Future Work
-	- [link](https://www.example.com)
-7. Lessons Learned
-	- [link](https://www.example.com)
+

@@ -19,6 +19,7 @@ The problem that the PAP aims to solve are the difficulties students often face 
 - [Problem Definition](https://github.com/ENSE374-F23/group5_proj/blob/main/Business_Case.docx)
 - [Cost Estimates](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Cost%20Estimates.xlsx)
 - [Project Charter](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project%20Charter.docx)
+- [Project Scope statement]()
 
 
 ## Design Requirements

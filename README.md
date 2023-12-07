@@ -40,7 +40,7 @@ Design requirements Included functions objectives and constraints all of were sa
 [Project Requirements Document](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
 
 ## Solutions
-Hi-Fidelity Prototypes -- Figma  
+Hi-Fidelity Prototype -- Figma  
 - [Figma](https://github.com/ENSE374-F23/group5_proj/tree/main/Solutions) -- [Demonstration video](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/Screen_Recording_2023-11-29_at_1.22.11_PM.mov)
 
 First Solution 

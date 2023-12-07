@@ -48,7 +48,7 @@ The components of our final design are:
 - Server: This is the back-end component that processes user requests, interacts with the database, and sends responses back to the UI.
 - Notification System: This component sends reminders to users about their upcoming tasks and deadlines.
   
-Block diagram: [Components]()
+Block diagram: [Components](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/BFD.png)
 
 #### Features
 - Login and register feature

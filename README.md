@@ -80,7 +80,7 @@ The Personalized Academic Planner (PAP) has shown significant potential in addre
 - Personal dashboard feature
 - Exam schedule faeture 
 - Assignments tracker
-
+while ensuring that the PAP is reliable and it complies with ethical requirements concerning users privacy
 [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
 
 ## Refrences 

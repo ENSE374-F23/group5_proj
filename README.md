@@ -29,8 +29,10 @@ Hi-Fidelity Prototype -- Figma
 First Solution: This solution is the first iteration for our PAP it has a login/ logout module and main page for adding task. We did not choose this module because its design was not able to provide us with all the required functionalities we needed for our application
 - [First Solution](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/First%20Solution.zip)
 
-Final Solution 
+Final Solution: This is the final solution. This solution is better than our previous solutions because it encompasses all the desired functionalities and components that is needed in our application. 
 - [Final Solution]()  -- [Demonstration video]()
+#### Components 
+ 
 ## Team Work
 
 1. Meeting 1 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%201)
@@ -46,10 +48,11 @@ Final Solution
 ## Conclusion & Future Work
 The Personalized Academic Planner (PAP) has shown significant potential in addressing the common challenges students face in managing their studies. By providing a customizable platform that caters to individual needs, courses, and study styles. [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
 
+## Refrences 
+N/A
 4. Mile-stone based schedule
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
 5. Project charter
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project%20Charter.docx)
-5. Project scope statement
-	- [link](https://www.example.com)
+
 

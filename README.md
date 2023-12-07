@@ -10,7 +10,7 @@
  
 The project is centered around the design and development of a Personalized Academic Planner (PAP). Which developed with the intent to help students become more effective at managing their time, reduce stress from their course load, and develop better study habits that will help them get better grades.  
 The rationale behind this project comes from the increasing demands and challenges students face when managing their academic responsibilities. The PAP's goal is to give students a customized planner that fits their individual needs by letting them alter it according to their courses, due dates, and study styles. It is anticipated that this personalized approach will improve students' motivation, engagement, and general academic achievement.  
-In the following sections contained within this project would be disscussed below.
+The Design problem, requirements, the various solutions we came up with and the limitations associated with the PAP would be discussed below.
 
 ## Problem Definition  
 
@@ -70,6 +70,8 @@ This is the final solution. This solution is better than our previous solutions 
 
 ## Project Management
 
+[Mile-stone based schedule](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
+
 First Gantt chart: [Gantt chart]() 
 
 Updated Gantt chart In light of Presentation with stakeholder: [Gantt chart]()
@@ -80,17 +82,16 @@ The Personalized Academic Planner (PAP) has shown significant potential in addre
 - Personal dashboard feature
 - Exam schedule faeture 
 - Assignments tracker
-- 
+
 while ensuring that the PAP is reliable and it complies with ethical requirements concerning users privacy
+
+Future improvements to the PAP include:
+
+- Import classes feature
+- Collaborative feature
+- Class schedule feature
 
 [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
 
 ## Refrences 
 N/A
-
-4. Mile-stone based schedule
-	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
-5. Project charter
-	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project%20Charter.docx)
-
-

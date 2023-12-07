@@ -48,7 +48,10 @@ This is the final solution. This solution is better than our previous solutions 
 
 ####  Environmental, Societal, Safety, and Economic Considerations
 
-
+- Environmantal: Our final design of the PAP contributes positively to the environment as it reduces the need for physical planners, thereby saving paper and reducing waste.
+- Societal: Our final solution was designed to be accessible and inclusive, catering to a diverse range of users.
+- Saftey: To ensure user data protection our desgin would provide user with login and sign up module and salting/ Hashing of passwords
+- Economic Considerations: Our final design was implemented to be ocst effective using less lines of code to achieve a better level of functionality than our previous design.
 
 #### Limitations
 

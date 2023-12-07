@@ -72,15 +72,15 @@ Block diagram: [Components](https://github.com/ENSE374-F23/group5_proj/blob/main
 
 ## Team Work
 
-1. Meeting 1 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%201)
-2. Meeting 2 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%202)
-3. Meeting 3 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%203)
-4. Meeting 4 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%204)
-5. Meeting 5 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%205)
-6. Meeting 6 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%206)
-7. Meeting 7 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%207)
-8. Meeting 8 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%208)
-9. Meeting 9 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%209)
+1. September 20th, 2023 - [Meeting 1](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%201)
+2. October 1st, 2023 - [Meeting 2](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%202)
+3. October 3rd, 2023 - [Meeting 3](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%203)
+4. October 11th, 2023 - [Meeting 4](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%204)
+5. October 14th, 2023 - [Meeting 5](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%205)
+6. October 24th, 2023 - [Meeting 6](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%206)
+7. November 6th, 2023 - [Meeting 7](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%207)
+8. November 14th, 2023 - [Meeting 8](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%208)
+9. November 23rd, 2023 - [Meeting 9](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%209)
 
 ## Project Management
 

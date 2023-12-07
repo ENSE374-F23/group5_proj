@@ -27,7 +27,7 @@ Hi-Fidelity Prototype -- Figma
 - [Figma](https://github.com/ENSE374-F23/group5_proj/tree/main/Solutions) -- [Demonstration video](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/Screen_Recording_2023-11-29_at_1.22.11_PM.mov)
 
 #### First Solution
-This solution is the first iteration for our PAP it has a login/ logout module and main page for adding task. We did not choose this module because its design was not able to provide us with all the required functionalities we needed for our application
+This solution is the first iteration for our PAP it has a login/ logout module and main page for adding task. We did not choose this module because its design was not able to provide us with all the required functionalities like the course management feature that was needed for our application.
 - [First Solution](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/First%20Solution.zip)
 
 #### Final Solution

@@ -67,6 +67,7 @@ This is the final solution. This solution is better than our previous solutions 
 ## Project Management
 
 First Gantt chart: [Gantt chart]() 
+
 Updated Gantt chart In light of Presentation with stakeholder: [Gantt chart]()
 
 ## Conclusion & Future Work

@@ -45,7 +45,7 @@ The components used in our application are:
 - Database: This component stores all the user data including their tasks, deadlines and more.
 - Authentication System: This component manages user accounts, including registration, login, and password management.
   
-(PAP) components: [File]()
+Final design: [Components]()
 
 #### Features
 - Login and register feature

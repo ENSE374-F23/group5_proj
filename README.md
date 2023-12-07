@@ -37,6 +37,7 @@ This solution is the first iteration for our PAP it has a login/ logout module a
 #### Final Solution
 This is the final solution. This solution is better than our previous solutions because it encompasses all the desired functionalities and components that is needed in our application. 
 - [Final Solution]()  -- [Demonstration video]()
+- [ERD Diagram](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/374F23Grp5Proj-PAP-ERD.png) 
 #### Components 
 
 The components of our final design are:

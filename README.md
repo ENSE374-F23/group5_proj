@@ -32,7 +32,24 @@ First Solution: This solution is the first iteration for our PAP it has a login/
 Final Solution: This is the final solution. This solution is better than our previous solutions because it encompasses all the desired functionalities and components that is needed in our application. 
 - [Final Solution]()  -- [Demonstration video]()
 #### Components 
- 
+
+#### Features
+- Login and register feature
+- Course Management feature
+- Personal dashboard feature
+- Exam schedule
+- Assignment tracker
+
+####  Environmental, Societal, Safety, and Economic Considerations
+
+
+
+#### Limitations
+
+- Internet Dependency: Since the (PAP) is a web application users without a proper internet connection would not have access to the (PAP).
+- Customization Limitations: Users would be limited to how they can customize thier experince on the PAP
+- Accessibility: The PAP may not be fully accessible to users with disabilities unless specific accessibility features have been implemented.
+
 ## Team Work
 
 1. Meeting 1 - [File](https://github.com/ENSE374-F23/group5_proj/tree/main/Meeting%201)

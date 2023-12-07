@@ -45,6 +45,7 @@ The components of our final design are:
 - Database: This component stores all the user data including their tasks, deadlines and more.
 - Authentication System: This component manages user accounts, including registration, login, and password management.
 - Server: This is the back-end component that processes user requests, interacts with the database, and sends responses back to the UI.
+- Notification System: This component sends reminders to users about their upcoming tasks and deadlines.
   
 Final design: [Components]()
 

@@ -23,7 +23,7 @@ The problem that the PAP aims to solve are the difficulties students often face 
 
 ## Design Requirements
 
-Design requirements Included functions objectives and constraints all of which were satisfied in this project. 
+Design requirements Included functions objectives and constraints all of which were satisfied in this project. As stated in the 
 [Project Requirements Document](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Project_Requirements_Document.docx)
 
 ## Solutions

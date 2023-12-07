@@ -47,7 +47,7 @@ The components of our final design are:
 - Server: This is the back-end component that processes user requests, interacts with the database, and sends responses back to the UI.
 - Notification System: This component sends reminders to users about their upcoming tasks and deadlines.
   
-Final design: [Components]()
+Block diagram: [Components]()
 
 #### Features
 - Login and register feature

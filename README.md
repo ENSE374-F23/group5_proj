@@ -72,7 +72,7 @@ Updated Gantt chart In light of Presentation with stakeholder: [Gantt chart]()
 
 ## Conclusion & Future Work
 The Personalized Academic Planner (PAP) has shown significant potential in addressing the common challenges students face in managing their studies. By providing students with:
-- Course Managements feature
+- An efficient way to manage thier courses
 - Personal dashboard feature
 - Exam schedule faeture 
 - Assignments tracker

@@ -86,7 +86,7 @@ Block diagram: [Components](https://github.com/ENSE374-F23/group5_proj/blob/main
 
 Project Schedule: [Mile-stone based schedule](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
 
-Gantt chart: [Gantt chart]() 
+Gantt chart: [Gantt chart](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Gantt%20Chart.png) 
 
 ## Conclusion & Future Work
 The Personalized Academic Planner (PAP) has shown significant potential in addressing the common challenges students face in managing their studies. By providing students with:

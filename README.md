@@ -70,7 +70,7 @@ This is the final solution. This solution is better than our previous solutions 
 
 ## Project Management
 
-[Mile-stone based schedule](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
+Project Schedule: [Mile-stone based schedule](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
 
 First Gantt chart: [Gantt chart]() 
 

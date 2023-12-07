@@ -50,6 +50,7 @@ The Personalized Academic Planner (PAP) has shown significant potential in addre
 
 ## Refrences 
 N/A
+
 4. Mile-stone based schedule
 	- [File](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
 5. Project charter

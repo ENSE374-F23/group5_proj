@@ -104,7 +104,7 @@ Future improvements to the PAP include:
 - Collaborative feature
 - Class schedule feature
 
-Project overview: [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
+Project Terminnation Review: [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
 
 ## Refrences 
 N/A

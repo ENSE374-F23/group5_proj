@@ -8,7 +8,7 @@
 
  ## INTRODUCTION 
  
-The project is centered around the design and development of a Personalized Academic Planner (PAP). Which developed with the intent to help students become more effective at managing their time, reduce stress from their course load, and develop better study habits that will help them get better grades.  
+The project is centered around the design and development of a Personalized Academic Planner (PAP). Which developed with the Model view Controller design architecture and its purpose is to help students become more effective at managing their time, reduce stress from their course load, and develop better study habits that will help them get better grades.  
 The rationale behind this project comes from the increasing demands and challenges students face when managing their academic responsibilities. The PAP's goal is to give students a customized planner that fits their individual needs by letting them alter it according to their courses, due dates, and study styles. It is anticipated that this personalized approach will improve students' motivation, engagement, and general academic achievement.  
 The Design problem, requirements, the various solutions we came up with and the limitations associated with the PAP will be discussed below.
 

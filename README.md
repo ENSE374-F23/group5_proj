@@ -1,8 +1,8 @@
 # ENSE 374 Group Project
 
 ## Group 5
----
-- [Installations instructions]() 
+
+[Installations instructions]() 
 
 ## Description
 

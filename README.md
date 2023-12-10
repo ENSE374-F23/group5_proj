@@ -20,7 +20,7 @@ This repository consists of project files related to development of the (PAP)
 - [Final Solution]()  -- [Demonstration video]()
 
 #### Project Report
-- [Project Report](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/REPORT.md) 
+- [Project Report](https://github.com/ENSE374-F23/group5_proj/blob/main/Techincal%20Report%20and%20slides/REPORT.md) 
 
 #### Team Work
  [Meetings]()

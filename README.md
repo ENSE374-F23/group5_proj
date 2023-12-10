@@ -10,8 +10,8 @@ Personalized Academic planner (PAP) is a group project done for ENSE 374 Softwar
 
 ## Group Members
 
-- Tolani Oke-Steve
-- Bilal Alissa
+1. Tolani Oke-Steve
+2. Bilal Alissa
 
 ## Content
 This repository consists of project files related to development of the (PAP)
@@ -20,9 +20,13 @@ This repository consists of project files related to development of the (PAP)
 - [Final Solution]()  -- [Demonstration video]()
 
 #### Project Report
-- [Project Report](https://github.com/ENSE374-F23/group5_proj/blob/main/Techincal%20Report%20and%20slides/REPORT.md) 
+- [Project Report](https://github.com/ENSE374-F23/group5_proj/blob/main/Techincal%20Report%20and%20slides/REPORT.md)
+
+#### Presentation
+
+- [Presentation file](https://github.com/ENSE374-F23/group5_proj/blob/main/Techincal%20Report%20and%20slides/Project_Presentation_ENSE%20374.pptx)
 
 #### Team Work
- [Meetings]()
+ [Meetings](https://github.com/ENSE374-F23/group5_proj/tree/main/Meetings)
 
 Project Terminnation Review: [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)

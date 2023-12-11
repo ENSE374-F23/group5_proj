@@ -11,4 +11,4 @@ The contents fo the folder were used  in the technical report
 - [Block Diagram](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/BFD.png)
 
 ## First Solution
--[Solution 1](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/First%20Solution.zip)
+- [Solution 1](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/First%20Solution.zip)

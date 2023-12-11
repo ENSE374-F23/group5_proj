@@ -29,4 +29,4 @@ This repository consists of project files related to development of the (PAP)
 #### Team Work
  [Meetings](https://github.com/ENSE374-F23/group5_proj/tree/main/Meetings)
 
-Project Terminnation Review: [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)
+Project Termination Review: [Lessons Learned](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Lessons%20Learned%20Report.docx)

@@ -87,7 +87,9 @@ Block diagram: [Components](https://github.com/ENSE374-F23/group5_proj/blob/main
 
 Project Schedule: [Mile-stone based schedule](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Milestone-Based%20Schedule.docx)
 
-Gantt chart: [Gantt chart](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Gantt%20Chart.png) 
+Gantt chart: [Gantt chart](https://github.com/ENSE374-F23/group5_proj/blob/main/Documents/Gantt%20chart.png) 
+
+In our Gantt chart the critical Activities are the Activities starting after the project definition(requirement gathering, front end, back end development and review and testing) as there are no remaning float for these activities and any delay to these activities would cause a delay to the remaning activities and the project completion date.
 
 ## Conclusion & Future Work
 The Personalized Academic Planner (PAP) has shown significant potential in addressing the common challenges students face in managing their studies. By providing students with:

@@ -2,7 +2,7 @@
 
 ## Group 5
 
-[Installations instructions]() 
+[Installation instructions]() 
 
 ## Description
 

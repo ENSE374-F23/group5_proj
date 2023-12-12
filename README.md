@@ -6,7 +6,7 @@
 
 ## Description
 
-Personalized Academic planner (PAP) is a group project done for ENSE 374 Software Engineering Management. We have been aksed to build a web-based software application of our choice by utilizing project/software engineering management principles and Model-View-Controller (MVC) architecture/pattern. 
+Personalized Academic planner (PAP) is a group project done for ENSE 374 Software Engineering Management. We have been aksed to build a web-based software application of our choice by utilizing software engineering management principles and Model-View-Controller (MVC) architecture. 
 
 ## Group Members
 

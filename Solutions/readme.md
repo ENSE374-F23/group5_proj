@@ -12,3 +12,4 @@ The contents fo the folder were used  in the technical report
 
 ## First Solution
 - [Solution 1](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/First%20Solution.zip)
+- [Installation Instructions](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/Installation.md)

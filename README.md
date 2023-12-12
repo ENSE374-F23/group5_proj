@@ -2,7 +2,7 @@
 
 ## Group 5
 
-[Installation instructions]() 
+[Installation instructions](https://github.com/ENSE374-F23/group5_proj/blob/main/PAP%20web%20app/readme.md) 
 
 ## Description
 

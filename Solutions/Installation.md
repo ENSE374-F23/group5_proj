@@ -16,5 +16,6 @@ npx nodemon app.js
 
 Verify the deployment by navigating to server address on your browser
 
-``` localhost:3009
+```
+localhost:3009
 ```

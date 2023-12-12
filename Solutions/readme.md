@@ -1,4 +1,4 @@
-The contents fo the folder were used  in the technical report
+The contents of the folder were used  in the technical report
 
 ## Figma Solutions
 - [Landing page](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/00_Landing-Page-Frame.png)

@@ -10,4 +10,8 @@ Open another terminal and run mongo by typing "mongod", enter and then "mongo". 
 
 After installing required components start the server
 
-`code`
+`npx nodemon app.js`
+
+Verify the deployment by navigating to server address on your browser
+
+'localhost:3009'

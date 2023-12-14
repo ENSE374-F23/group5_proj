@@ -44,7 +44,7 @@ This is the final solution. This solution is better than our previous solutions 
 | Notification| Includes a proactive notification system to notify users on upcoming activities | No notification system included |
 | Schedules | Exam schedule and assignment schedule with due dates provided | schedule provided but no due dates feature |
 
-- [Final Solution]()  -- [Demonstration video]()
+- [Final Solution]()  -- [Demonstration video](https://github.com/ENSE374-F23/group5_proj/blob/main/PAP%20web%20app/Screen_Recording_2023-12-13_at_8.12.24_PM.mov)
 - [ERD Diagram](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/374F23Grp5Proj-PAP-ERD.png) 
 #### Components 
 

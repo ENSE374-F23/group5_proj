@@ -42,7 +42,7 @@ This is the final solution. This solution is better than our previous solutions 
 | ----------- | ----------- | ----------- |
 | Management | Provides a robust task management function | Minimal task management function |
 | Notification| Includes a proactive notification system to notify users on upcoming activities | No notification system included |
-| Schedules | Exam schedule and assignment schedule with due dates provided | schedule provided but no due dates faeture |
+| Schedules | Exam schedule and assignment schedule with due dates provided | schedule provided but no due dates feature |
 
 - [Final Solution]()  -- [Demonstration video]()
 - [ERD Diagram](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/374F23Grp5Proj-PAP-ERD.png) 

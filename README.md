@@ -24,7 +24,7 @@ This repository consists of project files related to development of the (PAP)
 - [Prototype](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/Screen_Recording_2023-11-29_at_1.22.11_PM.mov)
 
 #### Final Solution
-- [Final Solution]()  -- [Demonstration video]()
+- [Final Solution]()  -- [Demonstration video](https://github.com/ENSE374-F23/group5_proj/blob/main/PAP%20web%20app/Screen_Recording_2023-12-13_at_8.12.24_PM.mov)
 
 #### Project Report
 - [Project Report](https://github.com/ENSE374-F23/group5_proj/blob/main/Techincal%20Report%20and%20slides/REPORT.md)

@@ -8,7 +8,7 @@
   - Importing DB (IMPORTANT):
     - open up the browser, type and open "localhost".
     - navigate to phpMyAdmin.
-    - look for "Import": to import 'PAP.sql'. Which located in Final_Solution/PAP.
+    - look for "Import": to import 'PAP.sql'. Which located in Final_Solution/PAP[PAP](https://github.com/ENSE374-F23/group5_proj/tree/main/Final_Solution/PAP).
     
 
 - Instructions:

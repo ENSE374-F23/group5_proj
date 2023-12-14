@@ -12,10 +12,12 @@
     
 
 - Instructions:
-  -  in VSC
+  - Run XAMP and start MySQL and Apache servers.
+  - in VSC
     - Once finished the installation part, open PAP folder in VSC.
     - Open index.php.
     - Right click anywher in the document and select Go Live.
+    - Follow up with the opened web browser's screen.
   - or if you have a real server and web hosting:
     - upload PAP folder to your web server.
     - import PAP.sql.

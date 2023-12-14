@@ -38,11 +38,13 @@ This solution is the first iteration for our PAP it has a login/ logout module a
 #### Final Solution
 This is the final solution. This solution is better than our previous solutions because it encompasses all the desired functionalities and components that is needed in our application such as a Robust task management function, Proactive notification system and a cruicial course management feature which previous solutions lacked. 
 
-| Final Solution | First Solution |
-| ----------- | ----------- |
-| Provides A robust task management function | Minimal task management function |
-| Includes A proactive notification system to notify users on upcoming activities | No notification system included |
-| Exam schedule and assignment schedule with due dates provided | schedule provided but no due dates faeture |
+| TItle | Final Solution | First Solution |
+| ----------- | ----------- | ----------- |
+| Management  | Provides a robust task management function | Minimal task management function |
+
+| Notification | Includes a proactive notification system to notify users on upcoming activities | No notification system included |
+
+| Schedules | Exam schedule and assignment schedule with due dates provided | schedule provided but no due dates faeture |
 
 - [Final Solution]()  -- [Demonstration video]()
 - [ERD Diagram](https://github.com/ENSE374-F23/group5_proj/blob/main/Solutions/374F23Grp5Proj-PAP-ERD.png) 

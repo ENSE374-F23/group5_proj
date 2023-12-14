@@ -38,7 +38,7 @@ This solution is the first iteration for our PAP it has a login/ logout module a
 #### Final Solution
 This is the final solution. This solution is better than our previous solutions because it encompasses all the desired functionalities and components that is needed in our application such as a Robust task management function, Proactive notification system and a cruicial course management feature which previous solutions lacked. 
 
-	| Final Solution | First Solution |
+| Final Solution | First Solution |
 | ----------- | ----------- |
 | Provides A robust task management function | Minimal task management function |
 | Includes A proactive notification system to notify users on upcoming activities | No notification system included |
